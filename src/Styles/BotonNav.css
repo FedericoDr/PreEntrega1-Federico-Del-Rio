@@ -1,0 +1,35 @@
+/* ------------------------------------------------------------------------------------------ */
+
+.NavBox {
+    background: #ff8a37;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: inset 0px 5px 8px 0px #00000036;
+  }
+  
+.navbar{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-family: 'Young Serif', sans-serif;
+    font-size: 20px;
+  }
+  
+  button {
+    font-family: 'Young Serif', sans-serif;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    outline: none;
+    font-size: 15px;
+    padding: 0px 30px;
+
+  }
+
+button:active{
+    color: rgb(221, 54, 54);
+}
+
+/* ------------------------------------------------------------------------------------------ */
